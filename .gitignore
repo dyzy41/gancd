@@ -104,6 +104,8 @@ ENV/
 datasets/
 output/A/
 output/B/
+output*/
+wandb/*
 
 # model checkpoints
 *.pth
